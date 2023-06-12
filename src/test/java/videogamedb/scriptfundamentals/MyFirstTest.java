@@ -1,4 +1,5 @@
 package videogamedb.scriptfundamentals;
+//importe tudo antes de iniciar script e extenda dá classe Simulation
 
 import io.gatling.javaapi.core.*;
 import io.gatling.javaapi.http.*;
